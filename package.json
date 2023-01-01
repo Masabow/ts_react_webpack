@@ -13,9 +13,9 @@
   "devDependencies": {
     "@types/react": "^16.8.22",
     "@types/react-dom": "^16.8.4",
-    "ts-loader": "^6.0.4",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.5.2",
-    "webpack": "^4.35.0"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "@material-ui/core": "^4.1.3",
